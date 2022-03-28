@@ -80,7 +80,7 @@
       "news": "Capturing All That Glitters In Galaxies With NASA’s Webb",
       "fecha": "18 Jan 2022",
       "descripcion": "Within the first year of operations, NASA’s James Webb Space Telescope will help researchers complete a more detailed sketch of the stellar life cycle with high-resolution infrared-light images of 19 galaxies.",
-      "imagen": "https://www.afuegolento.com/img_db/timthumb.php?src=img_db/old/8bc97494233728ef8c91d097f8a5be3f_thumb.jpg&w=800&z=1"
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/fully_deployed_mirror1_0.jpg?itok=N0Iae9om"
     },
     {
       "id": 12,
@@ -107,7 +107,7 @@
     },
     {
       "id": 2,
-      "nombre": "learning resource",
+      "nombre": "Learning resource",
       "descripcion": "Find resource for learning and teaching others about Webb science."
     },
     {
