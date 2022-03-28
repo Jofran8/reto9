@@ -1,0 +1,119 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "news": "NASA’s Webb Reaches Alignment Milestone, Optics Working Successfully",
+      "fecha": "16 Mar 2022",
+      "descripcion": "Following the completion of critical mirror alignment steps, NASA’s James Webb Space Telescope ",
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/telescope_alignment_evaluation_image_labeled.png?itok=Z6dTCO8i"
+    },
+    {
+      "id": 2,
+      "news": "El Telescopio Webb De La NASA Alcanza Un Hito En Su Alineación",
+      "fecha": "16 Mar 2022",
+      "descripcion": "El telescopio Webb de la NASA alcanza un hito en su alineación",
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/telescope_alignment_evaluation_image_labeled.png?itok=Z6dTCO8i"
+    },
+    {
+      "id": 3,
+      "news": "NASA To Discuss Progress As Webb Telescope’s Mirrors Align",
+      "fecha": "16 Mar 2022",
+      "descripcion": "NASA will hold a virtual media briefing at noon EDT Wednesday, March 16, to provide an update on the James Webb Space Telescope’s mirror alignment.",
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/33433274343_277deba9eb_o_0.jpg?itok=4wNSVdX4"
+    },
+    {
+      "id": 4,
+      "news": "Studying The Next Interstellar Interloper With Webb",
+      "fecha": "16 Feb 2022",
+      "descripcion": "One of the most exciting findings in planetary science in recent years is the discovery of interstellar objects passing through our solar system. So far, astronomers have confirmed only two of these interlopers from other star systems — 1I/'Oumuamua in 2017 and 2I/Borisov in 2018 — but many, many more are thought to exist.",
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/oumuamua-3200x1800.png?itok=-8GrrRV7"
+    },
+    {
+      "id": 5,
+      "news": " NASA To Discuss Webb Telescope Progress, Mirror Alignment",
+      "fecha": "10 Feb 2022",
+      "descripcion": "NASA will hold a media teleconference at 11 a.m. EST on Friday, Feb. 11, to share progress made in the early stages of aligning the James Webb Space Telescope’s mirrors.",
+      
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/oumuamua-3200x1800.png?itok=-8GrrRV7"
+    },
+    {
+      "id": 6,
+      "news": "NASA Engineer Receives Ralph Coats Roe Medal For Education, Mentorship",
+      "fecha": "10 Feb 2022",
+      "descripcion": "NASA’s Dr. Aprille Ericsson has received the Ralph Coats Roe medal from the American Society for Mechanical Engineers (ASME), honoring her international work encouraging young people, women, and people from other underrepresented groups to pursue STEM careers.",
+      
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/fully_deployed_mirror1_0.jpg?itok=N0Iae9om"
+    },
+    {
+      "id": 7,
+      "news": "NASA Looks Ahead In 2022: Artemis, X-59, Lunar Exploration, And More",
+      "fecha": "09 Feb 2022",
+      "descripcion": "After a 2021 filled with complex challenges and extraordinary successes, 2022 is shaping up to be another busy year for NASA.",
+      
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/webb_illustration.png?itok=KJp4XyCq"
+    },
+    {
+      "id": 8,
+      "news": "NASA Leaders Lauded At Innovation Event In California",
+      "fecha": "01 Feb 2022 ",
+      "descripcion": "NASA’s James Webb Space Telescope Program Director Gregory L. Robinson, along with other agency leaders, will be honored at the “Innovation&Equity 21: 50 Most Important African Americans in Technology” event in San Francisco on March 5.",
+
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/g-2010-0240-015.jpg?itok=QjPWdmi3"
+    },
+    {
+      "id": 9,
+      "news": "How NASA In Silicon Valley Will Use Webb To Study Distant Worlds",
+      "fecha": "31 Jan 2022",
+      "descripcion": "Scientists at NASA’s Ames Research Center in California’s Silicon Valley will be among the first to observe the cosmos with Webb, and they’re looking for clues about how exoplanets form, what they’re made of, and whether any could be potentially habitable.",
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/webb_artists_conception.jpg?itok=3iafNbfB"
+    },
+    {
+      "id": 10,
+      "news": "Ames Contributions To NASA’s James Webb Space Telescope",
+      "fecha": "28 Jan 2022",
+      "descripcion": "NASA’s Ames Research Center in California’s Silicon Valley made significant contributions to early mission concepts, technology development, and modeling. Ames researchers also will lead and contribute to the mission's science investigations.",
+      "precio": 10,
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/webb_artist_concept.jpg?itok=_9uJJ0Xz"
+    },
+    {
+      "id": 11,
+      "news": "Capturing All That Glitters In Galaxies With NASA’s Webb",
+      "fecha": "18 Jan 2022",
+      "descripcion": "Within the first year of operations, NASA’s James Webb Space Telescope will help researchers complete a more detailed sketch of the stellar life cycle with high-resolution infrared-light images of 19 galaxies.",
+      "imagen": "https://www.afuegolento.com/img_db/timthumb.php?src=img_db/old/8bc97494233728ef8c91d097f8a5be3f_thumb.jpg&w=800&z=1"
+    },
+    {
+      "id": 12,
+      "news": "NASA To Discuss Webb’s Arrival At Final Destination, Next Steps",
+      "fecha": "20 Jan 2022 ",
+      "descripcion": "Scientists and engineers operating NASA’s James Webb Space Telescope will answer questions about the mission’s latest milestones in a NASA Science Live broadcast at 3 p.m. EST Monday, Jan. 24, followed by a media teleconference at 4 p.m.",
+      
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/webb_artists_conception.jpg?itok=3iafNbfB"
+    },
+    {
+      "id": 13,
+      "news": "Sunshield Successfully Deploys On NASA’s Next Flagship Telescope",
+      "fecha": "04 Jan 2022 ",
+      "descripcion": "The James Webb Space Telescope team has fully deployed the spacecraft’s 70-foot sunshield, a key milestone in preparing it for science operations.",
+      
+      "imagen": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/33433274343_277deba9eb_o_0.jpg?itok=4wNSVdX4"
+    }
+  ],
+  "servicios": [
+    {
+      "id": 1,
+      "nombre": "Webb Mission",
+      "descripcion": "Learn About the Mission" 
+    },
+    {
+      "id": 2,
+      "nombre": "learning resource",
+      "descripcion": "Find resource for learning and teaching others about Webb science."
+    },
+    {
+    "id": 3,
+      "nombre": "Colaborating missions",
+      "descripcion": "Discover how Webb partners with the astronomy community."
+    }
+  ]
+}
